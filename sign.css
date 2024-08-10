@@ -1,0 +1,17 @@
+.bg-container {
+
+    background-color: antiquewhite;
+    width: 50vh;
+    text-align: center;
+}
+
+.button {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.inputs {
+    width: 100px;
+    text-align: center;
+    margin-left: 10px;
+}
